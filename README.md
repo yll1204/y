@@ -1,3 +1,3 @@
 # y
 brach dev
-master
+master & dev
